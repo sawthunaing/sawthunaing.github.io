@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Dev Portfolio  [![GitHub](https://img.shields.io/github/license/mayankagarwal09/dev-portfolio?color=blue)](https://github.com/mayankagarwal09/dev-portfolio/blob/master/LICENSE.md) ![visitors](https://visitor-badge.glitch.me/badge?page_id=mayankagarwal09.dev-portfolio&color=blue)
 
 ## A minimal portfolio template for Developers!
@@ -558,3 +559,7 @@ If you find a bug, feel free to [open an issue](https://github.com/mayankagarwal
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
+=======
+# sawthunaing.github.io
+My personal repository
+>>>>>>> a5cb86516739b3edf4b1013da42a312cd2383b54
