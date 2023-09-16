@@ -1,33 +1,35 @@
 {
     "experiences": [
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
+            "title": "Technical Lead",
+            "subtitle": "Abank",
             "workType": "Full-time",
             "workDescription": [
-                "Integrated **2** new product.",
-                "Worked on adding **def** to **bcd**. Improved speed by 50%."
+                "API Gateway System using an Ocelot with .NET Core 7,, PostgreSQL, and Nginx. This empowered the business team and card team to seamlessly develop and implement VISA card integration that the Finexus team supports. This third party team can integrate easily with data retrieving from Core Banking System and SMS Gateway.",
+                "Created a Dynamic Bill Payment System using an SOA architecture with .NET Core 6, PostgreSQL, and Nginx. This empowered business team to seamlessly develop and implement new billers without the need for core system updates, relying on small adaptors for integration.",
+                "Engineered a Dynamic Disbursement System integrated with Dee Money for remittance services (THB to MMK). Created API documentation for third-party systems, implemented AWS Cognito and API Gateway, and enabled seamless interbank transfers for Abank accounts and A+ wallets."
             ],
-            "dateText": "06/20XX – Present"
+            "dateText": "06/2021 – 08/2023"
         },
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
-            "workType": "Internship",
+            "title": "Technical Lead",
+            "subtitle": "uab bank",
+            "workType": "Full-time",
             "workDescription": [
-                "Worked on abc."
+                "aintaining the uabpay system, which involved using ASP.NET 4.6, MySQL, AWS RDS, and ECS instances. Reduced vendor costs and enabled the addition of new features.",
+                "Developed and maintained the uabpay payment gateway, utilizing ASP.NET 4.6, MySQL, AWS RDS, and ECS instances. Creating API documentation, system design, security measures, and client support for integration, as well as managing financial transaction reconciliation for the finance department."
             ],
-            "dateText": "01/20XX – 05/20XX"
+            "dateText": "05/2020 – 04/2021"
         },
         {
-            "title": "App Developer",
-            "subtitle": "ABC Pvt Ltd",
-            "workType": "Freelance",
+            "title": "Senior Software Engineer",
+            "subtitle": "ACE Data System Co Ltd",
+            "workType": "Full-time",
             "workDescription": [
-                "Developed the official apps for the startup for both Android and iOS using hybrid framework.",
-                "Done bcd work."
+                "Led the development of Onepay wallet system for Asia Green Development Bank, delivering it on time and within high-quality standards using ASP.NET 4.6, MySQL, AWS RDS, and ECS instances. The first local Myanmar-developed wallet system, significantly boosting company's profits and impacting the Myanmar software industry.",
+                "Engineered Internet Banking for Ayeyarwaddy Farmers Development Bank, achieving seamless integration between mobile (Android, IOS) and Backend API using ASP.NET 4.6, MSSQL, and IIS. Successfully delivered both mobile and web components in just 6 months."
             ],
-            "dateText": "09/20XX – 01/20YY"
+            "dateText": "09/2017 – 04/2021"
         }
     ]
 }
