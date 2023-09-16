@@ -4,42 +4,57 @@
      
             "title": "Languages & Databases",
             "items" : [
-     
+                {
+                    "icon": "images/skills/Csharp.png",
+                    "title": "C#"
+                },
                 {
                     "icon": "images/skills/java.png",
                     "title": "Java"
                 },
                 {
-                    "icon": "images/skills/php.png",
-                    "title": "PHP"
+                    "icon": "images/skills/html.png",
+                    "title": "Html"
                 },
+                {
+                    "icon": "images/skills/css.png",
+                    "title": "Css"
+                },                
                 {
                     "icon": "images/skills/js.png",
                     "title": "JavaScript"
                 },
                 {
-                    "icon": "images/skills/python.png",
-                    "title": "Python"
+                    "icon": "images/skills/mssql-server.png",
+                    "title": "MsSQL"
                 },
                 {
                     "icon": "images/skills/mysql.png",
                     "title": "MySQL"
+                },
+                {
+                    "icon": "images/skills/mongo-db.png",
+                    "title": "MongoDB"
                 }
         ]},
         {
             "title": "Frameworks & Technologies",
             "items" : [
                 {
-                    "icon": "images/skills/android_new.png",
-                    "title": "Android"
+                    "icon": "images/skills/ASPNET.png",
+                    "title": "ASP.Net"
+                },
+                {
+                    "icon": "images/skills/NET_Core.png",
+                    "title": ".Net Core"
                 },
                 {
                     "icon": "images/skills/react.png",
                     "title": "React"
                 },
                 {
-                    "icon": "images/skills/nodejs.png",
-                    "title": "Nodejs"
+                    "icon": "images/skills/SpringBoot.png",
+                    "title": "Spring Boot"
                 }
             ]
         },
@@ -47,16 +62,32 @@
             "title" : "Tools & Platforms",
             "items": [
                 {
-                    "icon": "images/skills/android-studio.png",
-                    "title": "Android Studio"
+                    "icon": "images/skills/VS.png",
+                    "title": "Visual Studio"
                 },
                 {
-                    "icon": "images/skills/git.png",
-                    "title": "Git"
+                    "icon": "images/skills/VSCode.png",
+                    "title": "Visual Studio Code"
+                },
+                {
+                    "icon": "images/skills/Jira.png",
+                    "title": "Jira"
+                },
+                {
+                    "icon": "images/skills/aws.png",
+                    "title": "Amazon Cloud"
+                },
+                {
+                    "icon": "images/skills/DigitalOcean.png",
+                    "title": "Digital Ocean"
                 },
                 {
                     "icon": "images/skills/docker.png",
                     "title": "Docker"
+                },
+                {
+                    "icon": "images/skills/kubernetes .png",
+                    "title": "Kubernetes "
                 }
             ]
     }
